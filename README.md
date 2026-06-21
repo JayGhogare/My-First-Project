@@ -1,16 +1,19 @@
-# Student Grade & Percentage Calculator 📊
+# 🎓 Student Performance Calculator
 
-A simple project that calculates student percentage and assigns grades based on marks.
+A simple Python project that calculates student percentage and assigns grades based on marks.
 
-## Features
+## 📌 Features
 - Calculates total percentage
 - Assigns grades (A, B, C, etc.)
-- Simple input-based program
+- Simple and beginner-friendly logic
 
-## Tech Used
-- Python 
+## 💻 Tech Used
+- Python
 
-## How to Run
-1. Download or clone this repo
-2. Open file in Python IDE
-3. Run the program
+## 🚀 How to Run
+1. Download the project
+2. Open in VS Code or any Python IDE
+3. Run the file
+
+## 👨‍💻 Author
+Jay Ghogare
